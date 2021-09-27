@@ -1,3 +1,2 @@
-quelqueslignes
-puis
+"LOCAL"
   
